@@ -1,6 +1,5 @@
 module FizzBuzz
   extend self
-
   def run(n)
     if n % 3 == 0 && n % 5 == 0
       return "FizzBuzz"

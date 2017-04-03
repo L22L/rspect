@@ -1,0 +1,2 @@
+class FizzbuzzController < ApplicationController
+end
